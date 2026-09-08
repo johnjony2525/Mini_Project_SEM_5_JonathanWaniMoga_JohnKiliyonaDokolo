@@ -1,0 +1,6 @@
+.venv/ 
+__pycache__/ 
+*.pyc 
+Dataset/train/ 
+Dataset/test/ 
+Dataset/val/ 
